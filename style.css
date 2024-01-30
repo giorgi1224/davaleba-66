@@ -1,0 +1,18 @@
+.classname {
+    color: green;
+}
+
+.classname:hover {
+    color: yellow;
+}
+
+.classname:focus {
+    color: purple;
+    background-color: black;
+    font-size: 50px;
+}
+
+.classname:active {
+    color: blue;
+    font-size: 40px;
+}
